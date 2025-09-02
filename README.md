@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Manoj Jakkampudi 
-<-- I'M a AI & ML Specialist and Python developer
+<-- I'M an AI & ML Specialist and Python developer
 
 # 💫 About Me:
 🎓 B.Tech in CSE (AI & ML) from NRI Institute of Technology<br>🔭 Currently working on: Full Stack Applications<br>🌱 Learning: AI,ML,DSA,Python,SQL,Java<br>📫 Reach me: manojjakkampudi889@gmail.com
