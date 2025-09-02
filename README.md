@@ -1,4 +1,4 @@
-## Hi there 👋 I AM Manoj Jakkampudi 
+## Hi there 👋 I am Manoj Jakkampudi 
 <-- I'M a AI & ML Specialist and Python developer
 
 # 💫 About Me:
